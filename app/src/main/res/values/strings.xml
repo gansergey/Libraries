@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HW1</string>
+    <string name="counter_one">Счётчик 1</string>
+    <string name="counter_two">Счётчик 2</string>
+    <string name="counter_three">Счётчик 3</string>
+    <string name="first_number">0</string>
 </resources>
